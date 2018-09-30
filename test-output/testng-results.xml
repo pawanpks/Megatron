@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13962" started-at="2018-09-30T09:50:06Z" finished-at="2018-09-30T09:50:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13962" started-at="2018-09-30T09:50:06Z" finished-at="2018-09-30T09:50:20Z">
+      <class name="com.megatron.test.smoke.TestSample">
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:com.megatron.test.smoke.TestSample@2c767a52]" name="preConditions" is-config="true" duration-ms="13289" started-at="2018-09-30T09:50:06Z" finished-at="2018-09-30T09:50:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="testLoginPageTitle()[pri:0, instance:com.megatron.test.smoke.TestSample@2c767a52]" name="testLoginPageTitle" duration-ms="34" started-at="2018-09-30T09:50:19Z" finished-at="2018-09-30T09:50:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPageTitle -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:com.megatron.test.smoke.TestSample@2c767a52]" name="postConditions" is-config="true" duration-ms="604" started-at="2018-09-30T09:50:19Z" finished-at="2018-09-30T09:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+      </class> <!-- com.megatron.test.smoke.TestSample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
